@@ -1,2 +1,3 @@
-# UDEA-ai4eng-20251-Pruebas-Saber-Pro-Colombia
-Crear un modelo con el objetivo de predecir el rendimiento de los estudiantes en las pruebas Saber Pro.
+Luis David Martínez Galindo
+1094972295
+Ingeniería de Sistemas
