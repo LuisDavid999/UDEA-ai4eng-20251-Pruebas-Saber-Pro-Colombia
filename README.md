@@ -4,4 +4,6 @@ Luis David Martínez Galindo
 
 Ingeniería de Sistemas
 
-https://www.youtube.com/watch?v=pKyem-5bgUI
+Entrega 2: https://www.youtube.com/watch?v=pKyem-5bgUI
+
+Entrega Final: https://youtu.be/FTiGZ_eDM-Q
